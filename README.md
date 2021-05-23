@@ -1,4 +1,4 @@
-# Getting started with TensorFlow 2 - Capstone-project
+# Getting started with TensorFlow 2 - Capstone project
 
   Work presents image classification of the SVHM dataset. RGB colored images of size 32x32 pixels, represents clipped digits of real world house-number photos in various resolution. There are two neural network models used. MDL and more accurate CNN, destined for image categorization. Both models were trained on set containing 73257 images and validation set as 15% of those images. Models were evaluated using test set, which consists of 26023 samples. 
 
