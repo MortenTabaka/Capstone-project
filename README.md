@@ -11,3 +11,4 @@ Environment requirements:
 * Matplotlib
 * NumPy
 * Pandas
+* SciPy
